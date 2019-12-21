@@ -1,4 +1,4 @@
-# Continuous-Delivery-DevOps-University-of-Virginia
+# Continuous Delivery DevOps, University of Virginia
 
 ### About this Course
 Amazon famously delivers new code every 11.6 seconds. Just a few years ago, this was unthinkable: many ‘cutting edge’ firms would release software quarterly. When it comes to digital innovation, velocity is critical and many would say it’s the most reliable determinant of success. 
